@@ -17,6 +17,12 @@ body {
   padding-bottom: 7.5rem;
 }
 
+.content-section p {
+  font-size: 1.5rem;
+  text-align: justify;
+  /*width: 100%;*/
+}
+
 .content-section-heading h2 {
   font-size: 3rem;
 }
