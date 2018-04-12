@@ -51,7 +51,7 @@ h6 {
   color: rgba(255, 255, 255, 0.7);
 }
 
-li {
+.content-li {
   text-align: left;
   font-size: 1.2rem;
 }
