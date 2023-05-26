@@ -1,4 +1,4 @@
-.masthead {
+/* .masthead {
   min-height: 50rem;
   position: relative;
   display: table;
@@ -16,4 +16,8 @@
 }
 .masthead h3 {
   color: #856404;
+} */
+
+.bg-primary-lamm {
+  background-color: #9CA84A !important;
 }
