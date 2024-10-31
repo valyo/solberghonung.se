@@ -1,4 +1,4 @@
-/* .masthead {
+.masthead {
   min-height: 50rem;
   position: relative;
   display: table;
@@ -6,7 +6,7 @@
   height: auto;
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/No-additives-100-Nature-Raw-Liquid-Honey.jpg");
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/main.jpeg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -16,7 +16,7 @@
 }
 .masthead h3 {
   color: #856404;
-} */
+} 
 
 .bg-primary-lamm {
   background-color: #9CA84A !important;
